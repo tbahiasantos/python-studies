@@ -4,6 +4,8 @@
  
  ## Description
  
- Still working on that. Come back later on
+ Still working on that! Please, come back later on. :)
  
- ## Author
+## Author
+
+* **Thiago Lima Bahia Santos**
